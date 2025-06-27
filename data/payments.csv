@@ -1,0 +1,3 @@
+user_id,payment_time,amount,device
+1,2023-01-02 00:08:00,999,Chrome
+2,2023-01-04 00:05:00,1500,Firefox

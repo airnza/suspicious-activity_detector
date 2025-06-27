@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+.venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Windows
+.DS_Store
+
+# Python packaging
+*.egg-info/
+dist/
+build/
